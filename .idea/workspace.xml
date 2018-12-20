@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ad26c5c8-f10d-452a-a89d-cebbc68017bc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/知识点.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/知识点.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vscode/settings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/网络/网络基础.py" beforeDir="false" afterPath="$PROJECT_DIR$/网络(并发)/网络基础.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,67 +12,70 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/$.coverage" NAME="汉诺塔问题 Coverage Results" MODIFIED="1544322796205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/算法相关" />
-    <SUITE FILE_PATH="coverage/$select_sort.coverage" NAME="select_sort Coverage Results" MODIFIED="1544341782925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/算法相关" />
-    <SUITE FILE_PATH="coverage/$python.coverage" NAME="python基础 Coverage Results" MODIFIED="1544710605641" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python相关/python基础" />
     <SUITE FILE_PATH="coverage/$bindCallback.coverage" NAME="bindCallback Coverage Results" MODIFIED="1543719584854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python相关/异步编程" />
     <SUITE FILE_PATH="coverage/$differentEventLoop.coverage" NAME="differentEventLoop Coverage Results" MODIFIED="1543724923975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python相关/异步编程" />
-    <SUITE FILE_PATH="coverage/$lock_singleton.coverage" NAME="lock_singleton Coverage Results" MODIFIED="1544961252221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python相关/单例模式" />
     <SUITE FILE_PATH="coverage/$metaclassComprehend.coverage" NAME="metaclassComprehend Coverage Results" MODIFIED="1544941367237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python相关/元类的理解" />
-    <SUITE FILE_PATH="coverage/$metaclass_test.coverage" NAME="metaclass_test Coverage Results" MODIFIED="1544964148122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python相关/元类的理解" />
     <SUITE FILE_PATH="coverage/$blockAndAwait.coverage" NAME="blockAndAwait Coverage Results" MODIFIED="1543720482723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python相关/异步编程" />
-    <SUITE FILE_PATH="coverage/$insert_sort.coverage" NAME="insert_sort Coverage Results" MODIFIED="1544345994149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/算法相关" />
     <SUITE FILE_PATH="coverage/$stopAssociation.coverage" NAME="stopAssociation Coverage Results" MODIFIED="1543723781789" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python相关/异步编程" />
+    <SUITE FILE_PATH="coverage/$metaclass_sing.coverage" NAME="metaclass_sing Coverage Results" MODIFIED="1544962072475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python相关/单例模式" />
+    <SUITE FILE_PATH="coverage/$bin_search.coverage" NAME="bin_search Coverage Results" MODIFIED="1545319191933" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/每日练习" />
+    <SUITE FILE_PATH="coverage/$quick_sort__1_.coverage" NAME="quick_sort (1) Coverage Results" MODIFIED="1544448759208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/每日练习" />
+    <SUITE FILE_PATH="coverage/$yield.coverage" NAME="yield实现异步 Coverage Results" MODIFIED="1543656162600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python相关/异步编程" />
+    <SUITE FILE_PATH="coverage/$concurrentAndParallel.coverage" NAME="concurrentAndParallel Coverage Results" MODIFIED="1543720807803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python相关/异步编程" />
+    <SUITE FILE_PATH="coverage/$search.coverage" NAME="search Coverage Results" MODIFIED="1544324585501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/算法相关" />
+    <SUITE FILE_PATH="coverage/$select_sort.coverage" NAME="select_sort Coverage Results" MODIFIED="1544341782925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/算法相关" />
+    <SUITE FILE_PATH="coverage/$python.coverage" NAME="python基础 Coverage Results" MODIFIED="1544710605641" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python相关/python基础" />
+    <SUITE FILE_PATH="coverage/$lock_singleton.coverage" NAME="lock_singleton Coverage Results" MODIFIED="1544961252221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python相关/单例模式" />
+    <SUITE FILE_PATH="coverage/$metaclass_test.coverage" NAME="metaclass_test Coverage Results" MODIFIED="1544964148122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python相关/元类的理解" />
+    <SUITE FILE_PATH="coverage/$insert_sort.coverage" NAME="insert_sort Coverage Results" MODIFIED="1544345994149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/算法相关" />
     <SUITE FILE_PATH="coverage/$asyncioDemo.coverage" NAME="asyncioDemo Coverage Results" MODIFIED="1543657758399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python相关/异步编程" />
     <SUITE FILE_PATH="coverage/$test.coverage" NAME="test Coverage Results" MODIFIED="1544537171732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/每日练习" />
     <SUITE FILE_PATH="coverage/$nesting.coverage" NAME="nesting Coverage Results" MODIFIED="1543721426079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python相关/异步编程" />
     <SUITE FILE_PATH="coverage/$quick_sort.coverage" NAME="quick_sort Coverage Results" MODIFIED="1544446079071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/算法相关" />
-    <SUITE FILE_PATH="coverage/$metaclass_sing.coverage" NAME="metaclass_sing Coverage Results" MODIFIED="1544962072475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python相关/单例模式" />
     <SUITE FILE_PATH="coverage/$bubble_sort.coverage" NAME="bubble_sort Coverage Results" MODIFIED="1544326998754" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/算法相关" />
     <SUITE FILE_PATH="coverage/$class_sing.coverage" NAME="class_sing Coverage Results" MODIFIED="1544961124240" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python相关/单例模式" />
     <SUITE FILE_PATH="coverage/$asyncioDemo2.coverage" NAME="asyncioDemo2 Coverage Results" MODIFIED="1543657854842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python相关/异步编程" />
-    <SUITE FILE_PATH="coverage/$quick_sort__1_.coverage" NAME="quick_sort (1) Coverage Results" MODIFIED="1544448759208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/每日练习" />
+    <SUITE FILE_PATH="coverage/$numpy_list_diff.coverage" NAME="numpy_list_diff Coverage Results" MODIFIED="1545214748752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python相关/列表" />
     <SUITE FILE_PATH="coverage/$deco_sing.coverage" NAME="deco_sing Coverage Results" MODIFIED="1544941659276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python相关/单例模式" />
-    <SUITE FILE_PATH="coverage/$yield.coverage" NAME="yield实现异步 Coverage Results" MODIFIED="1543656162600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python相关/异步编程" />
-    <SUITE FILE_PATH="coverage/$concurrentAndParallel.coverage" NAME="concurrentAndParallel Coverage Results" MODIFIED="1543720807803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python相关/异步编程" />
-    <SUITE FILE_PATH="coverage/$search.coverage" NAME="search Coverage Results" MODIFIED="1544324585501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/算法相关" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="-1283827789">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="11" />
+          <entry key="project.closed" value="13" />
           <entry key="project.open.time.0" value="6" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.4" value="2" />
           <entry key="project.open.time.5" value="2" />
-          <entry key="project.open.time.6" value="2" />
-          <entry key="project.opened" value="13" />
+          <entry key="project.open.time.6" value="3" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="json" value="1" />
           <entry key="pstat" value="1" />
-          <entry key="py" value="39" />
+          <entry key="py" value="52" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="JSON" value="1" />
           <entry key="Profiler Session" value="1" />
-          <entry key="Python" value="39" />
+          <entry key="Python" value="52" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="6" />
-          <entry key="py" value="17092" />
+          <entry key="py" value="19698" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="6" />
-          <entry key="Python" value="17092" />
+          <entry key="Python" value="19698" />
         </counts>
       </usages-collector>
     </session>
@@ -84,37 +83,24 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python相关/单例模式/deco_sing.py">
+        <entry file="file://$PROJECT_DIR$/算法相关/select_sort.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-              <folding>
-                <marker date="1544941839478" expanded="true" signature="19:24" ph="..." />
-                <marker date="1544941839478" expanded="true" signature="243:248" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Python相关/元类的理解/metaclass_test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="35" selection-end-column="9" />
-              <folding>
-                <marker date="1544964207201" expanded="true" signature="26:31" ph="..." />
-                <marker date="1544964207201" expanded="true" signature="404:594" ph="..." />
-                <marker date="1544964207201" expanded="true" signature="728:827" ph="..." />
-              </folding>
+            <state relative-caret-position="47">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.2/python_stubs/-1252464536/builtins.py">
+        <entry file="file://$PROJECT_DIR$/每日练习/insert_sort.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/每日练习/quick_sort.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="149">
-              <caret line="188" column="4" selection-start-line="188" selection-start-column="4" selection-end-line="188" selection-end-column="4" />
+            <state relative-caret-position="90">
+              <caret line="6" column="37" lean-forward="true" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -169,6 +155,8 @@
         <option value="$PROJECT_DIR$/Python相关/单例模式/lock_singleton.py" />
         <option value="$PROJECT_DIR$/Python相关/单例模式/metaclass_sing.py" />
         <option value="$PROJECT_DIR$/Python相关/元类的理解/metaclass_test.py" />
+        <option value="$PROJECT_DIR$/Python相关/列表/numpy_list_diff.py" />
+        <option value="$PROJECT_DIR$/每日练习/bin_search.py" />
       </list>
     </option>
   </component>
@@ -179,8 +167,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="466" />
-    <option name="y" value="59" />
+    <option name="x" value="150" />
+    <option name="y" value="41" />
     <option name="width" value="1034" />
     <option name="height" value="820" />
   </component>
@@ -219,18 +207,12 @@
             <path>
               <item name="知识点" type="b2602c69:ProjectViewProjectNode" />
               <item name="知识点" type="462c0819:PsiDirectoryNode" />
-              <item name="Python相关" type="462c0819:PsiDirectoryNode" />
+              <item name="每日练习" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="知识点" type="b2602c69:ProjectViewProjectNode" />
               <item name="知识点" type="462c0819:PsiDirectoryNode" />
-              <item name="Python相关" type="462c0819:PsiDirectoryNode" />
-              <item name="元类的理解" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="知识点" type="b2602c69:ProjectViewProjectNode" />
-              <item name="知识点" type="462c0819:PsiDirectoryNode" />
-              <item name="网络(并发)" type="462c0819:PsiDirectoryNode" />
+              <item name="算法相关" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -263,8 +245,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.metaclass_test">
-    <configuration name="class_sing" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.bin_search">
+    <configuration name="bin_search" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="知识点" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -272,34 +254,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python相关/单例模式" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/每日练习" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python相关/单例模式/class_sing.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="deco_sing" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="知识点" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python相关/单例模式" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python相关/单例模式/deco_sing.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/每日练习/bin_search.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -374,20 +334,42 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="numpy_list_diff" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="知识点" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python相关/列表" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python相关/列表/numpy_list_diff.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.deco_sing" />
-      <item itemvalue="Python.class_sing" />
       <item itemvalue="Python.lock_singleton" />
       <item itemvalue="Python.metaclass_sing" />
       <item itemvalue="Python.metaclass_test" />
+      <item itemvalue="Python.numpy_list_diff" />
+      <item itemvalue="Python.bin_search" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.bin_search" />
+        <item itemvalue="Python.numpy_list_diff" />
         <item itemvalue="Python.metaclass_test" />
         <item itemvalue="Python.metaclass_sing" />
         <item itemvalue="Python.lock_singleton" />
-        <item itemvalue="Python.class_sing" />
-        <item itemvalue="Python.deco_sing" />
       </list>
     </recent_temporary>
   </component>
@@ -405,15 +387,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="466" y="59" width="1034" height="820" extended-state="0" />
+    <frame x="150" y="41" width="1034" height="820" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.21169356" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21975806" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2141844" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2496454" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.32056737" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -450,20 +432,6 @@
     <entry file="file://$PROJECT_DIR$/Python相关/异步编程/differentEventLoop.py" />
     <entry file="file://$PROJECT_DIR$/Python相关/异步编程/newThreaeAssociation.py" />
     <entry file="file://$PROJECT_DIR$/Python相关/异步编程/master-work.py" />
-    <entry file="file://$PROJECT_DIR$/算法相关/bubble_sort.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="310">
-          <caret line="21" column="26" lean-forward="true" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/算法相关/bin_search.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="36" column="6" lean-forward="true" selection-start-line="36" selection-start-column="6" selection-end-line="36" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/算法相关/汉诺塔问题.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2">
@@ -472,13 +440,6 @@
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.2/python_stubs/-1051293890/builtins.py" />
-    <entry file="file://$PROJECT_DIR$/算法相关/select_sort.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-5">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.vscode/settings.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -486,20 +447,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/每日练习/quick_sort.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="37" lean-forward="true" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/算法相关/insert_sort.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
         </state>
       </provider>
     </entry>
@@ -517,13 +464,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/网络(并发)/网络基础.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="3" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Python相关/python基础/python基础.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="478">
@@ -535,11 +475,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
           <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-            <marker date="1544961252213" expanded="true" signature="55:60" ph="..." />
-            <marker date="1544961252213" expanded="true" signature="469:474" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -547,10 +482,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" selection-start-line="1" selection-end-line="1" />
-          <folding>
-            <marker date="1544961674449" expanded="true" signature="22:27" ph="..." />
-            <marker date="1544961674449" expanded="true" signature="421:433" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -558,11 +489,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="465">
           <caret line="31" column="10" selection-start-line="31" selection-start-column="10" selection-end-line="31" selection-end-column="10" />
-          <folding>
-            <marker date="1544960934117" expanded="true" signature="47:48" ph="..." />
-            <marker date="1544960934117" expanded="true" signature="72:120" ph="..." />
-            <marker date="1544960934117" expanded="true" signature="352:486" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -577,28 +503,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="417">
           <caret line="91" column="6" selection-start-line="91" selection-start-column="6" selection-end-line="91" selection-end-column="6" />
-          <folding>
-            <marker date="1544941367229" expanded="true" signature="30:37" ph="..." />
-            <marker date="1544941367229" expanded="true" signature="154:299" ph="..." />
-            <marker date="1544941367229" expanded="true" signature="409:416" ph="..." />
-            <marker date="1544941367229" expanded="true" signature="813:820" ph="..." />
-            <marker date="1544941367229" expanded="true" signature="898:905" ph="..." />
-            <marker date="1544941367229" expanded="true" signature="1056:1083" ph="..." />
-            <marker date="1544941367229" expanded="true" signature="1268:1275" ph="..." />
-            <marker date="1544941367229" expanded="true" signature="1268:1622" ph="..." />
-            <marker date="1544941367229" expanded="true" signature="1664:1687" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python相关/单例模式/deco_sing.py">
+    <entry file="file://$PROJECT_DIR$/Python相关/元类的理解/metaclass_test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-          <folding>
-            <marker date="1544941839478" expanded="true" signature="19:24" ph="..." />
-            <marker date="1544941839478" expanded="true" signature="243:248" ph="..." />
-          </folding>
+        <state relative-caret-position="119">
+          <caret line="7" column="26" lean-forward="true" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python相关/列表/numpy_list_diff.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
         </state>
       </provider>
     </entry>
@@ -609,15 +527,79 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python相关/元类的理解/metaclass_test.py">
+    <entry file="file://$PROJECT_DIR$/网络(并发)/网络基础.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="35" selection-end-column="9" />
+        <state relative-caret-position="165">
+          <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/lib/python3.6/random.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="274" selection-start-line="274" selection-end-line="274" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/每日练习/insert_sort.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/算法相关/bin_search.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/每日练习/select_sort.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python相关/单例模式/deco_sing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
           <folding>
-            <marker date="1544964207201" expanded="true" signature="26:31" ph="..." />
-            <marker date="1544964207201" expanded="true" signature="404:594" ph="..." />
-            <marker date="1544964207201" expanded="true" signature="728:827" ph="..." />
+            <marker date="1544941839478" expanded="true" signature="19:24" ph="..." />
+            <marker date="1544941839478" expanded="true" signature="243:248" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/算法相关/insert_sort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/算法相关/bubble_sort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="21" column="26" lean-forward="true" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/算法相关/select_sort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="47">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/每日练习/bin_search.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1080">
+          <caret line="72" lean-forward="true" selection-start-line="72" selection-end-line="72" />
+          <folding>
+            <marker date="1545319191924" expanded="true" signature="1101:1383" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/每日练习/quick_sort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="37" lean-forward="true" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
         </state>
       </provider>
     </entry>
