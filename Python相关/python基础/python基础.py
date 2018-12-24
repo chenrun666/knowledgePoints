@@ -67,7 +67,55 @@ print("\n".join("\t".join([f"{x}*{y}={x*y}" for y in range(1, x+1)]) for x in ra
 
 
 
+# max, min, len, bin, oct, hex, map, filter, reduce
+
+li1 = [1,2,3]
+# a = map(lambda x: x+1, li1)
+# for i in a:
+#     print(i)
+#
+# import functools
+# a = functools.reduce(lambda x,y: x+ y, li1)
+# print(a)
+
+b = filter(lambda x: x if x < 2 else "", li1)
+for i in b:
+    print(i)
 
 
+class Foo(object):
+    def __enter__(self):
+        print("进来了")
 
+    def __exit__(self, exc_type, exc_val, exc_tb):
+        print("出去了")
+
+
+obj = Foo()
+
+with obj as a:  # 连接数据库
+    a
+
+string = "ajajaj123jajaj9a"
+
+import re
+
+a = re.subn(r"\d+", "AAA", string)
+
+print(a)
+
+
+# python2 和 3 的区别
+
+def foo():
+    yield from ["1", "2", "3"]
+
+for item in foo():
+    print(item)
+
+# 编码， range和xrange， readlines和xreadlines，print/input/raw_input
+
+"""
+os.walk  查看所有文件
+"""
 

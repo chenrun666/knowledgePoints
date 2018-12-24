@@ -1,7 +1,7 @@
 # 这种单例模式在使用多线程的时候会存在问题
 class Singleton(object):
 
-    def __init__(self):
+    def __init__(self, *args, **kwargs):
         import time
         time.sleep(1)
 
